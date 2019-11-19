@@ -1,0 +1,1 @@
+console.debug (message,  '1.js'); 
